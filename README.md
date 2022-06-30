@@ -1,2 +1,3 @@
-# THP_J4_TheSurfingProject
-# THP_J4_TheSurfingProject
+The Hacking Project: Day 4
+Reproduce the website of: The Surfing project
+Using  html, css & bootstrap
